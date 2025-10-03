@@ -36,7 +36,9 @@ By writing optimized **MySQL queries**, we turn **raw transactional data** into 
 - Business insights & reporting  
 
 ---
+## Recommended GitHub Structure
 
+This project is organized to be clean, professional, and easy to navigate:
 pizza-sales-sql-analysis/
 │
 ├── data/
