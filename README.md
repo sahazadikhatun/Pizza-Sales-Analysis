@@ -31,6 +31,6 @@ By writing optimized **MySQL queries**, we turn **raw transactional data** into 
 ## 🛠️ Tools & Technologies
 
 - **MySQL** – Database engine for storing and querying pizza sales data  
-- **MySQL Workbench / DBeaver** – SQL development and visualization  
+- **MySQL Workbench** – SQL development and visualization  
 - **Git & GitHub** – Version control and project sharing  
 - **CSV Datasets** – Raw pizza sales transactions  
