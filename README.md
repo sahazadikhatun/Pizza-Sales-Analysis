@@ -51,7 +51,7 @@ pizza-sales-sql-analysis/
 │   └── 04_customer_behavior.sql
 ├── insights_report.md       # Insights summary & recommendations
 └── README.md                # Project documentation
-
+```
 
 ## 🛠️ Tools & Technologies
 
